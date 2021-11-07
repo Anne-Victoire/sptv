@@ -36,3 +36,9 @@ background-color: orange;
 .ban-2 {
   background-image: url(../../images/fun.jpg);
   background-size: cover;
+}
+
+.ban-3 {
+  background-image: url(../../images/players.jpg);
+  background-size: cover;
+}
